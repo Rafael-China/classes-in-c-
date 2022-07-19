@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ATT.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ATT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ATT.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ATT.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ATT.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\ATT\ATT\bin\Debug\net6.0\ATT.exe
+C:\Users\Rafael\source\repos\ATT\ATT\bin\Debug\net6.0\ATT.deps.json
+C:\Users\Rafael\source\repos\ATT\ATT\bin\Debug\net6.0\ATT.runtimeconfig.json
+C:\Users\Rafael\source\repos\ATT\ATT\bin\Debug\net6.0\ATT.dll
+C:\Users\Rafael\source\repos\ATT\ATT\bin\Debug\net6.0\ATT.pdb
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ATT.dll
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\refint\ATT.dll
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ATT.pdb
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ATT.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\ATT\ATT\obj\Debug\net6.0\ref\ATT.dll
